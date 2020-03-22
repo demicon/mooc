@@ -36,9 +36,6 @@
 * [Doselect](https://doselect.com/)
 * [Codefights](https://codefights.com/)
 * [Hackerbay](https://hackerbay.co/)
-
-
-
 * [Topcoder](https://www.topcoder.com/)
 * [Exercism](http://exercism.io/)
 * [Kaggle](http://kaggle.com/)
@@ -48,6 +45,7 @@
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 * [Sololearn](https://www.sololearn.com/)
 * [Codecademy](https://www.codecademy.com/)
+* [Flatiron](https://flatironschool.com/)
 
 ### Programming tutorials
 
@@ -56,6 +54,11 @@
 * [Linux Academy](http://linuxacademy.com/)
 * [Clojure Academy](https://clojurecademy.com/)
 * [Scotch](https://scotch.io/)
+* [Linkedin Learning](https://www.linkedin.com/learning/)
+
+### Data Science
+
+* [Datacamp](https://www.datacamp.com/)
 
 ### Math
 
