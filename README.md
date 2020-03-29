@@ -46,6 +46,7 @@
 * [Sololearn](https://www.sololearn.com/)
 * [Codecademy](https://www.codecademy.com/)
 * [Flatiron](https://flatironschool.com/)
+* [Programiz](https://www.programiz.com)
 
 ### Programming tutorials
 
